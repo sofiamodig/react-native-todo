@@ -7,7 +7,7 @@ __This application uses:__
   * Icons from @expo/vector-icons
 
 <div style="display: flex">
-<img src="https://github.com/sofiamodig/react-native-todo/blob/master/assets/screenshots/screen1.png" width="300" height="600">
-<img src="https://github.com/sofiamodig/react-native-todo/blob/master/assets/screenshots/screen2.png" width="300" height="600">
-<img src="https://github.com/sofiamodig/react-native-todo/blob/master/assets/screenshots/screen3.png" width="300" height="600">
+<img src="https://github.com/sofiamodig/react-native-todo/blob/master/assets/screenshots/screen1.png" width="200" height="400">
+<img src="https://github.com/sofiamodig/react-native-todo/blob/master/assets/screenshots/screen2.png" width="200" height="400">
+<img src="https://github.com/sofiamodig/react-native-todo/blob/master/assets/screenshots/screen3.png" width="200" height="400">
 </div>
